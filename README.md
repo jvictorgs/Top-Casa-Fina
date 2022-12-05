@@ -8,7 +8,7 @@
 
 <h2 align="center">Descrição do Projeto</h2>
 
-<p align="center">O Top Casa Fina Arquitetura foi criado para simular um site de arquitetura, mostrando opiniões, imagens e vídeos, o site possui responsividade mobile para telas menores como de celular, tablet e desktop. Esse projeto foi realizado para aperfeiçoar meus aprendizados em Bootstrap.</p>
+<p align="center">O Top Casa Fina Arquitetura foi criado para simular um site de arquitetura, mostrando opiniões, imagens e vídeos, o site possui responsividade para telas menores como de celular, tablet e desktop. Esse projeto foi realizado para aperfeiçoar meus aprendizados em Bootstrap.</p>
 
 <h2 align="center">Links:</h2>
 
